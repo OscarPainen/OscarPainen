@@ -17,6 +17,16 @@ analizando consumo energético y automatizando procesos institucionales.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+**Bases de datos**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Visualización & BI**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+
 **Visualización**  
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
@@ -37,8 +47,8 @@ analizando consumo energético y automatizando procesos institucionales.
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [📊 Report-InvoiceProject](https://github.com/OscarPainen/Report-InvoiceProject) | EDA y reportería de consumo energético universitario | Python, Pandas, Plotly |
-| [🧾 InvoiceProject](https://github.com/OscarPainen/InvoiceProject) | Extracción automática de datos desde facturas PDF con OCR | Google Apps Script, Drive API |
+| [Report-InvoiceProject](https://github.com/OscarPainen/Report-InvoiceProject) | EDA y reportería de consumo energético universitario | Python, Pandas, Plotly |
+| [InvoiceProject](https://github.com/OscarPainen/InvoiceProject) | Extracción automática de datos desde facturas PDF con OCR | Google Apps Script, Drive API |
 | [GPTSeguros](https://github.com/OscarPainen/GPTSeguros) | Cotizador automatizado de seguros para múltiples aseguradoras chilenas | Python, Selenium, Django |
 | [Café Dinamarca](https://github.com/OscarPainen/cafedinamarca) | Sistema de gestión para cafetería: POS, inventario y dashboard | React 19, Tailwind, Django |
 
@@ -46,10 +56,9 @@ analizando consumo energético y automatizando procesos institucionales.
 
 ## GitHub Stats
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarPainen&show_icons=true&theme=default&hide_border=true&locale=es)
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OscarPainen&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPainen&layout=compact&hide_border=true&locale=es)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPainen&layout=compact&hide_border=true&langs_count=6)
 ---
 
 ## Contacto
