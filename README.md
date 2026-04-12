@@ -57,7 +57,7 @@ analizando consumo energético y automatizando procesos institucionales.
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=OscarPainen&theme=default&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPainen&layout=compact&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPainen&hide=javascript,css,scss,html&theme=tokyonight)
 ---
 
 ## Contacto
